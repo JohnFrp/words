@@ -18,7 +18,7 @@ A web application that scrapes and displays the Binance Word of the Day answers 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tnh24/binance-words-today.git
+git clone https://github.com/JohnFrp/words.git
 cd binance-words-today
 ```
 
